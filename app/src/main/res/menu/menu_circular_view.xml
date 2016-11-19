@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.bradlaronde.circularviews.CircularViewActivity">
+    <item
+        android:id="@+id/action_call"
+        android:orderInCategory="100"
+        android:title="Call"
+        app:showAsAction="always"
+        android:icon="@android:drawable/stat_sys_phone_call"/>
+</menu>
